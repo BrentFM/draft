@@ -5,6 +5,8 @@ A small, fast desktop app for storing and reusing prompts.
 **Local-first. No account. No backend.**  
 Your data lives in a JSON file on your machine.
 
+![Draft app screenshot](images/drift-thumbnail.png)
+
 ---
 
 ## Features
